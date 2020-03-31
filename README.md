@@ -1,2 +1,2 @@
-# -golang-http-file-uploader
+# golang-http-file-uploader
 Test your file server.
